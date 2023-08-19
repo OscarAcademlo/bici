@@ -32,7 +32,7 @@ const Footer = () => {
         
           
             <h3>Derechos de autor</h3>
-            <p>(c) 2023 Mi Oscar Nicolas Stella. Todos los derechos reservados.</p>
+            <p>(c) 2023 Oscar Nicolas Stella. Todos los derechos reservados.</p>
             
         </div>
      

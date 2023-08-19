@@ -14,7 +14,7 @@ Hay una bicicleta Top Mega rodado 29 para cada ciclista: el que sos y el que que
 
 Es importante tener en cuenta los componentes, el rodado y el ajuste, además de considerar la relación calidad y precio. Se debe considerar el tipo de actividad que se desea realizar, las superficies por las que se va a andar, el presupuesto para mantener en condiciones óptimas y las condiciones físicas de quien va a utilizarla.</h3>
 </div>
-        <img className='topmega' src="/public/topmega.jpeg" alt="" />
+        <img className='topmega' src="/topmega.jpeg" alt="" />
         </div>
     </div>
   )

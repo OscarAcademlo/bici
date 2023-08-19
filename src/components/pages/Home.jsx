@@ -8,7 +8,7 @@ const Home = () => {
         </div>
         <div className="home">
         <div className="img">
-        <img className='foto_home' src="/public/bici.jpg" alt="" />
+        <img className='foto_home' src="/bici.jpg" alt="" />
         </div>
         <div className="img1">
         <h4 className='texto'>
