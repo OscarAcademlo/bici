@@ -15,7 +15,7 @@ const Home = () => {
         Somos tercera generación de bicicleteros en Bariloche,50 años en el rubro y en nuestra empresa llevamos 15 años acompañando a nuestros clientes con la mejor atención y los mejores precios.
         </h4>
         
-        <img className='lugar' src="public/interior.jpeg" alt="" />
+        <img className='lugar' src="/interior.jpeg" alt="" />
         </div>
         </div>
         
